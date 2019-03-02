@@ -1,0 +1,152 @@
+{% extends "layout/layout.html" %}
+
+{% block content %}
+    <!-- BEGIN PAGE CONTAINER-->
+
+
+<div class="container-fluid">
+
+    <!-- BEGIN PAGE HEADER-->
+
+    <div class="row-fluid">
+
+        <div class="span12">
+
+            <ul class="breadcrumb">
+
+                <li>
+
+                    <i class="icon-home"></i>
+
+                    <a href="#">首页</a>
+
+                    <i class="icon-angle-right"></i>
+
+                </li>
+
+                <li>
+
+                    <a href="#"> 群信息管理</a>
+
+                    <i class="icon-angle-right"></i>
+
+                </li>
+
+                <li><a href="#">群列表</a></li>
+
+            </ul>
+
+            <!-- END PAGE TITLE & BREADCRUMB-->
+
+        </div>
+
+    </div>
+
+    <!-- END PAGE HEADER-->
+
+    <!-- BEGIN PAGE CONTENT-->
+
+    <div class="row-fluid">
+
+        <div class="span12">
+
+            <!-- BEGIN SAMPLE TABLE PORTLET-->
+
+            <div class="portlet box red">
+
+                <div class="portlet-title">
+
+                    <div class="caption"><i class="icon-cogs"></i>群列表</div>
+
+                </div>
+
+                <div class="portlet-body">
+
+                    <table class="table table-hover">
+
+                        <thead>
+
+                        <tr>
+
+                            <th>群id</th>
+
+                            <th>群title</th>
+
+                            <th>群微信号</th>
+
+                            <th class="hidden-480">行业</th>
+
+                            <th>地区</th>
+
+                            <th>描述</th>
+
+                            <th>标签</th>
+
+                            <th>二维码</th>
+                            
+                        </tr>
+
+                        </thead>
+
+                        <tbody id="qunListData">
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+            </div>
+
+            <!-- END SAMPLE TABLE PORTLET-->
+
+        </div>
+
+
+    </div>
+
+</div>
+
+<!-- END PAGE CONTENT-->
+
+
+<!-- END PAGE CONTAINER-->
+{% endblock %}
+
+
+{% block myscript %}
+    <script src="/static/jquery.js"></script>
+    <script>
+
+        $(function() {
+            $.ajax({
+                url: "http://127.0.0.1:8000/api/quns/",
+                type: "GET",
+                dataType: "json",
+                success: function (data) {
+                    $.each(data, function (i, qunObj) {
+                        var $tr = $("<tr></tr>");
+                        $tr.append($("<td></td>").text(qunObj["id"]));
+                        $tr.append($("<td></td>").text(qunObj["title"]));
+                        $tr.append($("<td></td>").text(qunObj["weixinhao"]));
+                        $tr.append($("<td></td>").text(qunObj["hangye"]));
+                        $tr.append($("<td></td>").text(qunObj["district"]));
+                        $tr.append($("<td></td>").text(qunObj["description"]));
+                        $tr.append($("<td></td>").text(qunObj["tags"]));
+
+                        // 处理img路径并增加img标签
+                        var imgPath = qunObj["imgPath"];
+                        var tmp = imgPath.split("/");
+                        var file = tmp[tmp.length-1];
+                        var $img = $("<img src='' alt=''>").attr("alt",qunObj["title"]).attr("src","/static/imgs/"+file)
+                        $tr.append($("<td></td>").append($img));
+                        $("#qunListData").append($tr)
+                    })
+                }
+            })
+        })
+
+    </script>
+
+{% endblock %}
+

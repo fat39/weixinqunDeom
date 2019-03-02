@@ -1,0 +1,584 @@
+2019-03-02 15:07:33,389 - system - INFO - crawl qun list[https://weixinqun.com/group] succ
+2019-03-02 15:08:29,063 - system - INFO - crawl qun list[https://weixinqun.com/group] succ
+2019-03-02 15:09:26,198 - system - INFO - crawl qun list[https://weixinqun.com/group] succ
+2019-03-02 15:10:36,382 - system - INFO - crawl qun list[https://weixinqun.com/group] succ
+2019-03-02 15:10:49,560 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:10:49,650 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:11:15,808 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:11:15,889 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:11:38,184 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:11:38,269 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:12:29,308 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:12:29,385 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:12:46,692 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:12:46,763 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:13:47,847 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:13:47,915 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:15:08,359 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:15:08,463 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:15:18,424 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:15:18,513 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:17:19,473 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:17:19,565 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:17:24,558 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:17:24,626 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:17:47,773 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:17:47,856 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:17:47,982 - system - DEBUG - parse QunObj succ, url:/group?id=1123050
+2019-03-02 15:17:48,178 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/321396ae1312ac3a4e98ee1526e5d6a9.jpeg
+2019-03-02 15:17:53,582 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:17:53,661 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:17:53,906 - system - DEBUG - parse QunObj succ, url:/group?id=1123050
+2019-03-02 15:17:54,057 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298430/321396ae1312ac3a4e98ee1526e5d6a9.jpeg] succ
+2019-03-02 15:17:54,057 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/321396ae1312ac3a4e98ee1526e5d6a9.jpeg
+2019-03-02 15:18:17,213 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:18:17,291 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:18:17,473 - system - INFO - crawl qun index [/group?id=1104833] succ
+2019-03-02 15:18:17,983 - system - INFO - crawl qun index [/group?id=1122945] succ
+2019-03-02 15:18:18,681 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:18:19,056 - system - INFO - crawl qun index [/group?id=1123049] succ
+2019-03-02 15:18:19,632 - system - INFO - crawl qun index [/group?id=1123051] succ
+2019-03-02 15:18:20,160 - system - INFO - crawl qun index [/group?id=1116920] succ
+2019-03-02 15:18:20,637 - system - INFO - crawl qun index [/group?id=1112883] succ
+2019-03-02 15:18:20,727 - system - INFO - crawl qun index [/group?id=1122951] succ
+2019-03-02 15:18:21,355 - system - INFO - crawl qun index [/group?id=1120883] succ
+2019-03-02 15:18:21,816 - system - INFO - crawl qun index [/group?id=1122395] succ
+2019-03-02 15:18:22,112 - system - INFO - crawl qun index [/group?id=1122802] succ
+2019-03-02 15:18:22,679 - system - INFO - crawl qun index [/group?id=1103352] succ
+2019-03-02 15:18:23,311 - system - INFO - crawl qun index [/group?id=1047601] succ
+2019-03-02 15:18:23,905 - system - INFO - crawl qun index [/group?id=1122442] succ
+2019-03-02 15:18:24,456 - system - INFO - crawl qun index [/group?id=1118866] succ
+2019-03-02 15:18:24,810 - system - INFO - crawl qun index [/group?id=1122769] succ
+2019-03-02 15:18:25,242 - system - INFO - crawl qun index [/group?id=1057242] succ
+2019-03-02 15:18:25,858 - system - INFO - crawl qun index [/group?id=1121746] succ
+2019-03-02 15:18:26,417 - system - INFO - crawl qun index [/group?id=1122933] succ
+2019-03-02 15:18:26,931 - system - INFO - crawl qun index [/group?id=1121334] succ
+2019-03-02 15:18:27,117 - system - INFO - crawl qun index [/group?id=1073423] succ
+2019-03-02 15:18:27,632 - system - INFO - crawl qun index [/group?id=1121685] succ
+2019-03-02 15:18:28,243 - system - INFO - crawl qun index [/group?id=1120022] succ
+2019-03-02 15:18:28,705 - system - INFO - crawl qun index [/group?id=1123000] succ
+2019-03-02 15:18:29,174 - system - INFO - crawl qun index [/group?id=1074432] succ
+2019-03-02 15:18:29,691 - system - INFO - crawl qun index [/group?id=1123046] succ
+2019-03-02 15:18:30,190 - system - INFO - crawl qun index [/group?id=1123047] succ
+2019-03-02 15:18:30,531 - system - INFO - crawl qun index [/group?id=1123048] succ
+2019-03-02 15:18:31,086 - system - INFO - crawl qun index [/group?id=1121571] succ
+2019-03-02 15:18:31,445 - system - INFO - crawl qun index [/group?id=1122944] succ
+2019-03-02 15:18:32,013 - system - INFO - crawl qun index [/group?id=1119486] succ
+2019-03-02 15:18:32,511 - system - INFO - crawl qun index [/group?id=1066133] succ
+2019-03-02 15:18:33,032 - system - INFO - crawl qun index [/group?id=1114496] succ
+2019-03-02 15:18:33,526 - system - INFO - crawl qun index [/group?id=1122907] succ
+2019-03-02 15:18:33,886 - system - INFO - crawl qun index [/group?id=1031179] succ
+2019-03-02 15:18:34,245 - system - INFO - crawl qun index [/group?id=1123038] succ
+2019-03-02 15:18:35,100 - system - INFO - crawl qun index [/group?id=1123039] succ
+2019-03-02 15:18:35,545 - system - INFO - crawl qun index [/group?id=1119495] succ
+2019-03-02 15:18:35,969 - system - INFO - crawl qun index [/group?id=1102466] succ
+2019-03-02 15:18:36,572 - system - INFO - crawl qun index [/group?id=1038903] succ
+2019-03-02 15:18:37,039 - system - INFO - crawl qun index [/group?id=1122133] succ
+2019-03-02 15:18:37,559 - system - DEBUG - parse QunObj succ, url:/group?id=1123050
+2019-03-02 15:18:37,678 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298430/321396ae1312ac3a4e98ee1526e5d6a9.jpeg] succ
+2019-03-02 15:18:37,678 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/321396ae1312ac3a4e98ee1526e5d6a9.jpeg
+2019-03-02 15:18:37,711 - system - DEBUG - parse QunObj succ, url:/group?id=1104833
+2019-03-02 15:18:37,986 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/4ec68c04ddd5f50b93e8060460d7fc1b.jpeg] succ
+2019-03-02 15:18:37,986 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/4ec68c04ddd5f50b93e8060460d7fc1b.jpeg
+2019-03-02 15:18:38,020 - system - DEBUG - parse QunObj succ, url:/group?id=1122945
+2019-03-02 15:18:38,198 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1298185/ac8d20f388f91ab9547760d4e55d2e33.jpeg] succ
+2019-03-02 15:18:38,198 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/ac8d20f388f91ab9547760d4e55d2e33.jpeg
+2019-03-02 15:18:38,233 - system - DEBUG - parse QunObj succ, url:/group?id=1115220
+2019-03-02 15:18:38,363 - system - DEBUG - download img[https://img8.souweixin.com/20190103/1022195/e1c67bccd59d34e650a77bf6a18ea400.png] succ
+2019-03-02 15:18:38,364 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/e1c67bccd59d34e650a77bf6a18ea400.png
+2019-03-02 15:18:38,396 - system - DEBUG - parse QunObj succ, url:/group?id=1123049
+2019-03-02 15:18:38,571 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1293496/aab414da94b6459a9a4d881b49c3aeb3.png] succ
+2019-03-02 15:18:38,571 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/aab414da94b6459a9a4d881b49c3aeb3.png
+2019-03-02 15:18:38,608 - system - DEBUG - parse QunObj succ, url:/group?id=1123051
+2019-03-02 15:18:39,084 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1252364/0ca3be6f5272e82e0a379cc5d57f4bdd.jpeg] succ
+2019-03-02 15:18:39,084 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/0ca3be6f5272e82e0a379cc5d57f4bdd.jpeg
+2019-03-02 15:18:39,120 - system - DEBUG - parse QunObj succ, url:/group?id=1116920
+2019-03-02 15:18:39,793 - system - DEBUG - download img[https://img8.souweixin.com/20190101/952803/9321705a1c31b5eedfa09bd14d5e2e3e.jpeg] succ
+2019-03-02 15:18:39,794 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9321705a1c31b5eedfa09bd14d5e2e3e.jpeg
+2019-03-02 15:18:39,826 - system - DEBUG - parse QunObj succ, url:/group?id=1112883
+2019-03-02 15:18:40,080 - system - DEBUG - download img[https://img8.souweixin.com/20181205/1221662/6e8907a3ac0225f1d3da3d9148014c10.jpeg] succ
+2019-03-02 15:18:40,080 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6e8907a3ac0225f1d3da3d9148014c10.jpeg
+2019-03-02 15:18:40,118 - system - DEBUG - parse QunObj succ, url:/group?id=1122951
+2019-03-02 15:18:40,274 - system - DEBUG - download img[https://img8.souweixin.com/20190301/557887/f3c2e77e128940914e89d8cb9e576606.jpeg] succ
+2019-03-02 15:18:40,274 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f3c2e77e128940914e89d8cb9e576606.jpeg
+2019-03-02 15:18:40,316 - system - DEBUG - parse QunObj succ, url:/group?id=1120883
+2019-03-02 15:18:40,443 - system - DEBUG - download img[https://img8.souweixin.com/20190221/796735/50b81a80fd74698404c7b4debfd1ea37.png] succ
+2019-03-02 15:18:40,443 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/50b81a80fd74698404c7b4debfd1ea37.png
+2019-03-02 15:18:40,474 - system - DEBUG - parse QunObj succ, url:/group?id=1122395
+2019-03-02 15:18:40,626 - system - DEBUG - download img[https://img8.souweixin.com/20190226/1297170/6a989cba0dcaae8174dc3bff9126d1da.png] succ
+2019-03-02 15:18:40,626 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6a989cba0dcaae8174dc3bff9126d1da.png
+2019-03-02 15:18:40,657 - system - DEBUG - parse QunObj succ, url:/group?id=1122802
+2019-03-02 15:18:40,867 - system - DEBUG - download img[https://img8.souweixin.com/20190228/1264664/54d87357909beb1419d48b75d38018b7.png] succ
+2019-03-02 15:18:40,867 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/54d87357909beb1419d48b75d38018b7.png
+2019-03-02 15:18:40,903 - system - DEBUG - parse QunObj succ, url:/group?id=1103352
+2019-03-02 15:18:41,034 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/d713fb6e40a94f6c8ddcef84a959778f.jpeg] succ
+2019-03-02 15:18:41,035 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 15:18:41,068 - system - DEBUG - parse QunObj succ, url:/group?id=1047601
+2019-03-02 15:18:41,237 - system - DEBUG - download img[https://img8.souweixin.com/20190110/1081969/9dc626b1b4a7d9fe7ca8818ceb9344fc.jpeg] succ
+2019-03-02 15:18:41,237 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9dc626b1b4a7d9fe7ca8818ceb9344fc.jpeg
+2019-03-02 15:18:41,274 - system - DEBUG - parse QunObj succ, url:/group?id=1122442
+2019-03-02 15:18:41,423 - system - DEBUG - download img[https://img8.souweixin.com/20190226/1296815/7bcf3e49405a517aac870c383bc665fb.jpeg] succ
+2019-03-02 15:18:41,424 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/7bcf3e49405a517aac870c383bc665fb.jpeg
+2019-03-02 15:18:41,482 - system - DEBUG - parse QunObj succ, url:/group?id=1118866
+2019-03-02 15:18:41,646 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 15:18:41,681 - system - DEBUG - parse QunObj succ, url:/group?id=1122769
+2019-03-02 15:18:42,233 - system - DEBUG - download img[https://img8.souweixin.com/20190228/1297837/8eb90231b2b4cfc891d32ef365a4c9b5.png] succ
+2019-03-02 15:18:42,234 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/8eb90231b2b4cfc891d32ef365a4c9b5.png
+2019-03-02 15:18:42,278 - system - DEBUG - parse QunObj succ, url:/group?id=1057242
+2019-03-02 15:18:42,403 - system - DEBUG - download img[https://img8.souweixin.com/20190301/834496/f79224a58197dcffd41ef98616b36d86.jpeg] succ
+2019-03-02 15:18:42,404 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f79224a58197dcffd41ef98616b36d86.jpeg
+2019-03-02 15:18:42,434 - system - DEBUG - parse QunObj succ, url:/group?id=1121746
+2019-03-02 15:18:42,638 - system - DEBUG - download img[https://img8.souweixin.com/20190221/1295503/6178af6d0788fde09227551258d8821e.jpeg] succ
+2019-03-02 15:18:42,638 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6178af6d0788fde09227551258d8821e.jpeg
+2019-03-02 15:18:42,669 - system - DEBUG - parse QunObj succ, url:/group?id=1122933
+2019-03-02 15:18:42,858 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1288481/93ae07c72899c05ca165789813e8efed.jpeg] succ
+2019-03-02 15:18:42,858 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/93ae07c72899c05ca165789813e8efed.jpeg
+2019-03-02 15:18:42,893 - system - DEBUG - parse QunObj succ, url:/group?id=1121334
+2019-03-02 15:18:43,078 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 15:18:43,111 - system - DEBUG - parse QunObj succ, url:/group?id=1073423
+2019-03-02 15:18:43,445 - system - DEBUG - download img[https://img8.souweixin.com/20180428/1090715/2d3c2b17212003d63bbd651f6d9a8005.jpeg] succ
+2019-03-02 15:18:43,445 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/2d3c2b17212003d63bbd651f6d9a8005.jpeg
+2019-03-02 15:18:43,482 - system - DEBUG - parse QunObj succ, url:/group?id=1121685
+2019-03-02 15:18:43,634 - system - DEBUG - download img[https://img8.souweixin.com/20190220/1290153/a2ffdef7b62cfe6335b7ae014d62ce51.jpeg] succ
+2019-03-02 15:18:43,635 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a2ffdef7b62cfe6335b7ae014d62ce51.jpeg
+2019-03-02 15:18:43,674 - system - DEBUG - parse QunObj succ, url:/group?id=1120022
+2019-03-02 15:18:43,905 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/50b81a80fd74698404c7b4debfd1ea37.png
+2019-03-02 15:18:43,936 - system - DEBUG - parse QunObj succ, url:/group?id=1123000
+2019-03-02 15:18:44,229 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1225797/ca13f9565f63470a25467fd740b62de1.png] succ
+2019-03-02 15:18:44,229 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/ca13f9565f63470a25467fd740b62de1.png
+2019-03-02 15:18:44,265 - system - DEBUG - parse QunObj succ, url:/group?id=1074432
+2019-03-02 15:18:44,351 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1157244/ba8f3ecc698f2c786755a5c734ac5ee0.jpeg] succ
+2019-03-02 15:18:44,352 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/ba8f3ecc698f2c786755a5c734ac5ee0.jpeg
+2019-03-02 15:18:44,382 - system - DEBUG - parse QunObj succ, url:/group?id=1123046
+2019-03-02 15:18:44,676 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1195104/a0161f9e5da85718718566bbedc43fc7.jpeg] succ
+2019-03-02 15:18:44,677 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a0161f9e5da85718718566bbedc43fc7.jpeg
+2019-03-02 15:18:44,723 - system - DEBUG - parse QunObj succ, url:/group?id=1123047
+2019-03-02 15:18:45,556 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a0161f9e5da85718718566bbedc43fc7.jpeg
+2019-03-02 15:18:45,596 - system - DEBUG - parse QunObj succ, url:/group?id=1123048
+2019-03-02 15:18:46,017 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298439/74c42dc80a129a64eea874742881ace8.jpeg] succ
+2019-03-02 15:18:46,018 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/74c42dc80a129a64eea874742881ace8.jpeg
+2019-03-02 15:18:46,061 - system - DEBUG - parse QunObj succ, url:/group?id=1121571
+2019-03-02 15:18:46,180 - system - DEBUG - download img[https://img8.souweixin.com/20190228/981651/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg] succ
+2019-03-02 15:18:46,181 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg
+2019-03-02 15:18:46,219 - system - DEBUG - parse QunObj succ, url:/group?id=1122944
+2019-03-02 15:18:46,477 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1022237/7c51cd0e5f8a8ecee1727de95651f64b.jpeg] succ
+2019-03-02 15:18:46,478 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/7c51cd0e5f8a8ecee1727de95651f64b.jpeg
+2019-03-02 15:18:46,516 - system - DEBUG - parse QunObj succ, url:/group?id=1119486
+2019-03-02 15:18:46,747 - system - DEBUG - download img[https://img8.souweixin.com/20190208/1289851/f7613d8291af047cf06af498758fb30e.jpeg] succ
+2019-03-02 15:18:46,748 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f7613d8291af047cf06af498758fb30e.jpeg
+2019-03-02 15:18:46,789 - system - DEBUG - parse QunObj succ, url:/group?id=1066133
+2019-03-02 15:18:46,914 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f79224a58197dcffd41ef98616b36d86.jpeg
+2019-03-02 15:18:46,989 - system - DEBUG - parse QunObj succ, url:/group?id=1114496
+2019-03-02 15:18:47,166 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1279580/9e60cb2deadacb9ebea20bc8a5238996.png] succ
+2019-03-02 15:18:47,167 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9e60cb2deadacb9ebea20bc8a5238996.png
+2019-03-02 15:18:47,204 - system - DEBUG - parse QunObj succ, url:/group?id=1122907
+2019-03-02 15:18:47,373 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1298116/47f73cc4e7b9a462bf99fea04bbad626.jpeg] succ
+2019-03-02 15:18:47,374 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/47f73cc4e7b9a462bf99fea04bbad626.jpeg
+2019-03-02 15:18:47,408 - system - DEBUG - parse QunObj succ, url:/group?id=1031179
+2019-03-02 15:18:47,558 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/50b81a80fd74698404c7b4debfd1ea37.png
+2019-03-02 15:18:47,594 - system - DEBUG - parse QunObj succ, url:/group?id=1123038
+2019-03-02 15:18:47,766 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1292210/534a6923bcdf68a4c478c818f0bfc089.png] succ
+2019-03-02 15:18:47,766 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/534a6923bcdf68a4c478c818f0bfc089.png
+2019-03-02 15:18:47,805 - system - DEBUG - parse QunObj succ, url:/group?id=1123039
+2019-03-02 15:18:48,018 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1295746/c319e7c7079f35065d266b3b36b6fa6b.jpeg] succ
+2019-03-02 15:18:48,018 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/c319e7c7079f35065d266b3b36b6fa6b.jpeg
+2019-03-02 15:18:48,049 - system - DEBUG - parse QunObj succ, url:/group?id=1119495
+2019-03-02 15:18:48,240 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f7613d8291af047cf06af498758fb30e.jpeg
+2019-03-02 15:18:48,273 - system - DEBUG - parse QunObj succ, url:/group?id=1102466
+2019-03-02 15:18:48,422 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 15:18:48,464 - system - DEBUG - parse QunObj succ, url:/group?id=1038903
+2019-03-02 15:18:48,602 - system - DEBUG - download img[https://img8.souweixin.com/20171028/1047859/94406eb04a6dee61df9c2d0949b4c380.jpeg] succ
+2019-03-02 15:18:48,602 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/94406eb04a6dee61df9c2d0949b4c380.jpeg
+2019-03-02 15:18:48,633 - system - DEBUG - parse QunObj succ, url:/group?id=1122133
+2019-03-02 15:18:48,903 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1296262/a4732f3d1ecf7f0c60386586f68e4e0c.jpeg] succ
+2019-03-02 15:18:48,903 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a4732f3d1ecf7f0c60386586f68e4e0c.jpeg
+2019-03-02 15:58:01,588 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:58:01,681 - system - INFO - crawl qun index [/group?id=1068837] succ
+2019-03-02 15:58:01,850 - system - INFO - crawl qun index [/group?id=1123062] succ
+2019-03-02 15:58:02,148 - system - INFO - crawl qun index [/group?id=1123063] succ
+2019-03-02 15:58:02,653 - system - INFO - crawl qun index [/group?id=1123065] succ
+2019-03-02 15:58:02,791 - system - INFO - crawl qun index [/group?id=1084250] succ
+2019-03-02 15:58:02,911 - system - INFO - crawl qun index [/group?id=1122951] succ
+2019-03-02 15:58:03,047 - system - INFO - crawl qun index [/group?id=1113526] succ
+2019-03-02 15:58:03,184 - system - INFO - crawl qun index [/group?id=1120747] succ
+2019-03-02 15:58:03,339 - system - INFO - crawl qun index [/group?id=1123004] succ
+2019-03-02 15:58:03,456 - system - INFO - crawl qun index [/group?id=1120693] succ
+2019-03-02 15:58:03,578 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 15:58:03,713 - system - INFO - crawl qun index [/group?id=1104833] succ
+2019-03-02 15:58:03,877 - system - INFO - crawl qun index [/group?id=1122945] succ
+2019-03-02 15:58:04,000 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 15:58:04,135 - system - INFO - crawl qun index [/group?id=1123049] succ
+2019-03-02 15:58:04,284 - system - INFO - crawl qun index [/group?id=1123051] succ
+2019-03-02 15:58:04,397 - system - INFO - crawl qun index [/group?id=1116920] succ
+2019-03-02 15:58:04,488 - system - INFO - crawl qun index [/group?id=1112883] succ
+2019-03-02 15:58:04,598 - system - INFO - crawl qun index [/group?id=1120883] succ
+2019-03-02 15:58:04,721 - system - INFO - crawl qun index [/group?id=1122395] succ
+2019-03-02 15:58:04,832 - system - INFO - crawl qun index [/group?id=1122802] succ
+2019-03-02 15:58:04,926 - system - INFO - crawl qun index [/group?id=1103352] succ
+2019-03-02 15:58:05,037 - system - INFO - crawl qun index [/group?id=1047601] succ
+2019-03-02 15:58:05,165 - system - INFO - crawl qun index [/group?id=1122442] succ
+2019-03-02 15:58:05,285 - system - INFO - crawl qun index [/group?id=1118866] succ
+2019-03-02 15:58:05,403 - system - INFO - crawl qun index [/group?id=1122769] succ
+2019-03-02 15:58:05,525 - system - INFO - crawl qun index [/group?id=1057242] succ
+2019-03-02 15:58:05,639 - system - INFO - crawl qun index [/group?id=1121746] succ
+2019-03-02 15:58:05,745 - system - INFO - crawl qun index [/group?id=1122933] succ
+2019-03-02 15:58:05,855 - system - INFO - crawl qun index [/group?id=1121334] succ
+2019-03-02 15:58:05,952 - system - INFO - crawl qun index [/group?id=1073423] succ
+2019-03-02 15:58:06,097 - system - INFO - crawl qun index [/group?id=1121685] succ
+2019-03-02 15:58:06,195 - system - INFO - crawl qun index [/group?id=1120022] succ
+2019-03-02 15:58:06,295 - system - INFO - crawl qun index [/group?id=1123000] succ
+2019-03-02 15:58:06,476 - system - INFO - crawl qun index [/group?id=1074432] succ
+2019-03-02 15:58:06,648 - system - INFO - crawl qun index [/group?id=1123046] succ
+2019-03-02 15:58:17,389 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:58:17,469 - system - INFO - crawl qun index [/group?id=1068837] succ
+2019-03-02 15:58:17,612 - system - DEBUG - parse QunObj succ, url:/group?id=1068837
+2019-03-02 15:58:17,957 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1063826/06051301b3aaaac0e48f88992048df1b.jpeg] succ
+2019-03-02 15:58:17,957 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/06051301b3aaaac0e48f88992048df1b.jpeg
+2019-03-02 15:58:35,965 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 15:58:36,038 - system - INFO - crawl qun index [/group?id=1068837] succ
+2019-03-02 15:58:36,195 - system - DEBUG - parse QunObj succ, url:/group?id=1068837
+2019-03-02 15:58:36,467 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/06051301b3aaaac0e48f88992048df1b.jpeg
+2019-03-02 16:00:11,106 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:00:11,193 - system - INFO - crawl qun index [/group?id=1102557] succ
+2019-03-02 16:00:11,339 - system - DEBUG - parse QunObj succ, url:/group?id=1102557
+2019-03-02 16:00:11,596 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/61ce0afe5842dc4cac5f453cba07afba.jpeg] succ
+2019-03-02 16:00:11,596 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 16:02:41,257 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:02:41,334 - system - INFO - crawl qun index [/group?id=1102557] succ
+2019-03-02 16:02:41,485 - system - DEBUG - parse QunObj succ, url:/group?id=1102557
+2019-03-02 16:02:41,755 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/61ce0afe5842dc4cac5f453cba07afba.jpeg] succ
+2019-03-02 16:02:41,755 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 16:03:15,874 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:03:15,998 - system - INFO - crawl qun index [/group?id=1102557] succ
+2019-03-02 16:03:16,187 - system - DEBUG - parse QunObj succ, url:/group?id=1102557
+2019-03-02 16:03:16,358 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 16:04:59,402 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:04:59,475 - system - INFO - crawl qun index [/group?id=1102557] succ
+2019-03-02 16:04:59,623 - system - DEBUG - parse QunObj succ, url:/group?id=1102557
+2019-03-02 16:05:00,601 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 16:20:21,641 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:20:21,713 - system - INFO - crawl qun index [/group?id=1122717] succ
+2019-03-02 16:20:22,026 - system - DEBUG - parse QunObj succ, url:/group?id=1122717
+2019-03-02 16:20:23,007 - system - DEBUG - download img[https://img8.souweixin.com/20190227/1006011/c39b3ee8068b7122aefe13e489823d9c.png] succ
+2019-03-02 16:20:23,007 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/c39b3ee8068b7122aefe13e489823d9c.png
+2019-03-02 16:20:54,931 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:20:55,055 - system - INFO - crawl qun index [/group?id=1122717] succ
+2019-03-02 16:20:55,244 - system - DEBUG - parse QunObj succ, url:/group?id=1122717
+2019-03-02 16:20:55,541 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/c39b3ee8068b7122aefe13e489823d9c.png
+2019-03-02 16:21:20,322 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 16:21:20,415 - system - INFO - crawl qun index [/group?id=1122717] succ
+2019-03-02 16:21:20,564 - system - INFO - crawl qun index [/group?id=1102557] succ
+2019-03-02 16:21:20,692 - system - INFO - crawl qun index [/group?id=1118972] succ
+2019-03-02 16:21:20,805 - system - INFO - crawl qun index [/group?id=1123066] succ
+2019-03-02 16:21:20,921 - system - INFO - crawl qun index [/group?id=1068837] succ
+2019-03-02 16:21:21,048 - system - INFO - crawl qun index [/group?id=1123062] succ
+2019-03-02 16:21:21,157 - system - INFO - crawl qun index [/group?id=1123063] succ
+2019-03-02 16:21:21,293 - system - INFO - crawl qun index [/group?id=1123065] succ
+2019-03-02 16:21:21,637 - system - INFO - crawl qun index [/group?id=1084250] succ
+2019-03-02 16:21:22,036 - system - INFO - crawl qun index [/group?id=1122951] succ
+2019-03-02 16:21:22,455 - system - INFO - crawl qun index [/group?id=1113526] succ
+2019-03-02 16:21:22,596 - system - INFO - crawl qun index [/group?id=1120747] succ
+2019-03-02 16:21:22,728 - system - INFO - crawl qun index [/group?id=1123004] succ
+2019-03-02 16:21:23,261 - system - INFO - crawl qun index [/group?id=1120693] succ
+2019-03-02 16:21:23,786 - system - INFO - crawl qun index [/group?id=1123050] succ
+2019-03-02 16:21:23,927 - system - INFO - crawl qun index [/group?id=1104833] succ
+2019-03-02 16:21:24,583 - system - INFO - crawl qun index [/group?id=1115220] succ
+2019-03-02 16:21:24,871 - system - INFO - crawl qun index [/group?id=1123049] succ
+2019-03-02 16:21:25,170 - system - INFO - crawl qun index [/group?id=1123051] succ
+2019-03-02 16:21:25,488 - system - INFO - crawl qun index [/group?id=1116920] succ
+2019-03-02 16:21:25,779 - system - INFO - crawl qun index [/group?id=1112883] succ
+2019-03-02 16:21:26,188 - system - INFO - crawl qun index [/group?id=1120883] succ
+2019-03-02 16:21:26,495 - system - INFO - crawl qun index [/group?id=1122395] succ
+2019-03-02 16:21:26,785 - system - INFO - crawl qun index [/group?id=1122802] succ
+2019-03-02 16:21:27,076 - system - INFO - crawl qun index [/group?id=1103352] succ
+2019-03-02 16:21:27,538 - system - INFO - crawl qun index [/group?id=1047601] succ
+2019-03-02 16:21:27,834 - system - INFO - crawl qun index [/group?id=1122442] succ
+2019-03-02 16:21:28,218 - system - INFO - crawl qun index [/group?id=1118866] succ
+2019-03-02 16:21:28,602 - system - INFO - crawl qun index [/group?id=1122769] succ
+2019-03-02 16:21:28,880 - system - INFO - crawl qun index [/group?id=1057242] succ
+2019-03-02 16:21:29,246 - system - INFO - crawl qun index [/group?id=1121746] succ
+2019-03-02 16:21:29,531 - system - INFO - crawl qun index [/group?id=1122933] succ
+2019-03-02 16:21:29,635 - system - INFO - crawl qun index [/group?id=1121334] succ
+2019-03-02 16:21:30,009 - system - INFO - crawl qun index [/group?id=1073423] succ
+2019-03-02 16:21:30,296 - system - INFO - crawl qun index [/group?id=1121685] succ
+2019-03-02 16:21:30,765 - system - INFO - crawl qun index [/group?id=1120022] succ
+2019-03-02 16:21:31,163 - system - INFO - crawl qun index [/group?id=1123000] succ
+2019-03-02 16:21:31,537 - system - INFO - crawl qun index [/group?id=1074432] succ
+2019-03-02 16:21:32,066 - system - INFO - crawl qun index [/group?id=1123046] succ
+2019-03-02 16:21:32,429 - system - INFO - crawl qun index [/group?id=1123047] succ
+2019-03-02 16:21:32,918 - system - INFO - crawl qun index [/group?id=1123048] succ
+2019-03-02 16:21:33,037 - system - INFO - crawl qun index [/group?id=1121571] succ
+2019-03-02 16:21:33,193 - system - DEBUG - parse QunObj succ, url:/group?id=1122717
+2019-03-02 16:21:33,547 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/c39b3ee8068b7122aefe13e489823d9c.png
+2019-03-02 16:21:33,611 - system - DEBUG - parse QunObj succ, url:/group?id=1102557
+2019-03-02 16:21:33,749 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 16:21:33,826 - system - DEBUG - parse QunObj succ, url:/group?id=1118972
+2019-03-02 16:21:34,082 - system - DEBUG - download img[https://img8.souweixin.com/20190226/828601/6c06963f6a0ed4d95e955cc0a887c8cd.png] succ
+2019-03-02 16:21:34,082 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6c06963f6a0ed4d95e955cc0a887c8cd.png
+2019-03-02 16:21:34,155 - system - DEBUG - parse QunObj succ, url:/group?id=1123066
+2019-03-02 16:21:34,528 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298447/eb64139d37bf22bf0d4caea05f0e8fe4.png] succ
+2019-03-02 16:21:34,529 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/eb64139d37bf22bf0d4caea05f0e8fe4.png
+2019-03-02 16:21:34,614 - system - DEBUG - parse QunObj succ, url:/group?id=1068837
+2019-03-02 16:21:35,004 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1063826/06051301b3aaaac0e48f88992048df1b.jpeg] succ
+2019-03-02 16:21:35,005 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/06051301b3aaaac0e48f88992048df1b.jpeg
+2019-03-02 16:21:35,083 - system - DEBUG - parse QunObj succ, url:/group?id=1123062
+2019-03-02 16:21:35,305 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298458/8294d1acb9dbf856a6775f5ee16c458f.jpeg] succ
+2019-03-02 16:21:35,305 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/8294d1acb9dbf856a6775f5ee16c458f.jpeg
+2019-03-02 16:21:35,351 - system - DEBUG - parse QunObj succ, url:/group?id=1123063
+2019-03-02 16:21:35,469 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298469/7eac9cdbca9478ca7a6549c8e0bca04c.png] succ
+2019-03-02 16:21:35,469 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/7eac9cdbca9478ca7a6549c8e0bca04c.png
+2019-03-02 16:21:35,538 - system - DEBUG - parse QunObj succ, url:/group?id=1123065
+2019-03-02 16:21:35,688 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1296657/081c597bdb41ced6f63f80358eea3a53.png] succ
+2019-03-02 16:21:35,689 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/081c597bdb41ced6f63f80358eea3a53.png
+2019-03-02 16:21:35,756 - system - DEBUG - parse QunObj succ, url:/group?id=1084250
+2019-03-02 16:21:36,203 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/c39b3ee8068b7122aefe13e489823d9c.png
+2019-03-02 16:21:36,295 - system - DEBUG - parse QunObj succ, url:/group?id=1122951
+2019-03-02 16:21:36,436 - system - DEBUG - download img[https://img8.souweixin.com/20190301/557887/f3c2e77e128940914e89d8cb9e576606.jpeg] succ
+2019-03-02 16:21:36,437 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f3c2e77e128940914e89d8cb9e576606.jpeg
+2019-03-02 16:21:36,517 - system - DEBUG - parse QunObj succ, url:/group?id=1113526
+2019-03-02 16:21:36,622 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg] succ
+2019-03-02 16:21:36,623 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg
+2019-03-02 16:21:36,739 - system - DEBUG - parse QunObj succ, url:/group?id=1120747
+2019-03-02 16:21:37,139 - system - DEBUG - download img[https://img8.souweixin.com/20190213/612455/bbd472c3904bab64570719b66cb8e492.jpeg] succ
+2019-03-02 16:21:37,139 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/bbd472c3904bab64570719b66cb8e492.jpeg
+2019-03-02 16:21:37,216 - system - DEBUG - parse QunObj succ, url:/group?id=1123004
+2019-03-02 16:21:37,517 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1297160/d26f37f47609de7a168c599e1a5307d4.jpeg] succ
+2019-03-02 16:21:37,517 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d26f37f47609de7a168c599e1a5307d4.jpeg
+2019-03-02 16:21:37,597 - system - DEBUG - parse QunObj succ, url:/group?id=1120693
+2019-03-02 16:21:38,166 - system - DEBUG - download img[https://img8.souweixin.com/20190213/1293778/27a31ed9360b6a08fb0d98c3ca00c494.jpeg] succ
+2019-03-02 16:21:38,166 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/27a31ed9360b6a08fb0d98c3ca00c494.jpeg
+2019-03-02 16:21:38,264 - system - DEBUG - parse QunObj succ, url:/group?id=1123050
+2019-03-02 16:21:38,482 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298430/321396ae1312ac3a4e98ee1526e5d6a9.jpeg] succ
+2019-03-02 16:21:38,482 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/321396ae1312ac3a4e98ee1526e5d6a9.jpeg
+2019-03-02 16:21:38,593 - system - DEBUG - parse QunObj succ, url:/group?id=1104833
+2019-03-02 16:21:38,849 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/4ec68c04ddd5f50b93e8060460d7fc1b.jpeg] succ
+2019-03-02 16:21:38,849 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/4ec68c04ddd5f50b93e8060460d7fc1b.jpeg
+2019-03-02 16:21:38,919 - system - DEBUG - parse QunObj succ, url:/group?id=1115220
+2019-03-02 16:21:39,127 - system - DEBUG - download img[https://img8.souweixin.com/20190103/1022195/e1c67bccd59d34e650a77bf6a18ea400.png] succ
+2019-03-02 16:21:39,127 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/e1c67bccd59d34e650a77bf6a18ea400.png
+2019-03-02 16:21:39,197 - system - DEBUG - parse QunObj succ, url:/group?id=1123049
+2019-03-02 16:21:39,418 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1293496/aab414da94b6459a9a4d881b49c3aeb3.png] succ
+2019-03-02 16:21:39,418 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/aab414da94b6459a9a4d881b49c3aeb3.png
+2019-03-02 16:21:39,506 - system - DEBUG - parse QunObj succ, url:/group?id=1123051
+2019-03-02 16:21:40,498 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1252364/0ca3be6f5272e82e0a379cc5d57f4bdd.jpeg] succ
+2019-03-02 16:21:40,499 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/0ca3be6f5272e82e0a379cc5d57f4bdd.jpeg
+2019-03-02 16:21:40,578 - system - DEBUG - parse QunObj succ, url:/group?id=1116920
+2019-03-02 16:21:41,174 - system - DEBUG - download img[https://img8.souweixin.com/20190101/952803/9321705a1c31b5eedfa09bd14d5e2e3e.jpeg] succ
+2019-03-02 16:21:41,174 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9321705a1c31b5eedfa09bd14d5e2e3e.jpeg
+2019-03-02 16:21:41,240 - system - DEBUG - parse QunObj succ, url:/group?id=1112883
+2019-03-02 16:21:42,191 - system - DEBUG - download img[https://img8.souweixin.com/20181205/1221662/6e8907a3ac0225f1d3da3d9148014c10.jpeg] succ
+2019-03-02 16:21:42,192 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6e8907a3ac0225f1d3da3d9148014c10.jpeg
+2019-03-02 16:21:42,256 - system - DEBUG - parse QunObj succ, url:/group?id=1120883
+2019-03-02 16:21:42,510 - system - DEBUG - download img[https://img8.souweixin.com/20190221/796735/50b81a80fd74698404c7b4debfd1ea37.png] succ
+2019-03-02 16:21:42,510 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/50b81a80fd74698404c7b4debfd1ea37.png
+2019-03-02 16:21:42,576 - system - DEBUG - parse QunObj succ, url:/group?id=1122395
+2019-03-02 16:21:43,174 - system - DEBUG - download img[https://img8.souweixin.com/20190226/1297170/6a989cba0dcaae8174dc3bff9126d1da.png] succ
+2019-03-02 16:21:43,175 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6a989cba0dcaae8174dc3bff9126d1da.png
+2019-03-02 16:21:43,464 - system - DEBUG - parse QunObj succ, url:/group?id=1122802
+2019-03-02 16:21:43,630 - system - DEBUG - download img[https://img8.souweixin.com/20190228/1264664/54d87357909beb1419d48b75d38018b7.png] succ
+2019-03-02 16:21:43,630 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/54d87357909beb1419d48b75d38018b7.png
+2019-03-02 16:21:43,718 - system - DEBUG - parse QunObj succ, url:/group?id=1103352
+2019-03-02 16:21:43,896 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/d713fb6e40a94f6c8ddcef84a959778f.jpeg] succ
+2019-03-02 16:21:43,897 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 16:21:43,963 - system - DEBUG - parse QunObj succ, url:/group?id=1047601
+2019-03-02 16:21:44,214 - system - DEBUG - download img[https://img8.souweixin.com/20190110/1081969/9dc626b1b4a7d9fe7ca8818ceb9344fc.jpeg] succ
+2019-03-02 16:21:44,214 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9dc626b1b4a7d9fe7ca8818ceb9344fc.jpeg
+2019-03-02 16:21:44,266 - system - DEBUG - parse QunObj succ, url:/group?id=1122442
+2019-03-02 16:21:44,410 - system - DEBUG - download img[https://img8.souweixin.com/20190226/1296815/7bcf3e49405a517aac870c383bc665fb.jpeg] succ
+2019-03-02 16:21:44,410 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/7bcf3e49405a517aac870c383bc665fb.jpeg
+2019-03-02 16:21:44,503 - system - DEBUG - parse QunObj succ, url:/group?id=1118866
+2019-03-02 16:21:44,680 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 16:21:44,755 - system - DEBUG - parse QunObj succ, url:/group?id=1122769
+2019-03-02 16:21:45,411 - system - DEBUG - download img[https://img8.souweixin.com/20190228/1297837/8eb90231b2b4cfc891d32ef365a4c9b5.png] succ
+2019-03-02 16:21:45,412 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/8eb90231b2b4cfc891d32ef365a4c9b5.png
+2019-03-02 16:21:45,518 - system - DEBUG - parse QunObj succ, url:/group?id=1057242
+2019-03-02 16:21:45,730 - system - DEBUG - download img[https://img8.souweixin.com/20190301/834496/f79224a58197dcffd41ef98616b36d86.jpeg] succ
+2019-03-02 16:21:45,731 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/f79224a58197dcffd41ef98616b36d86.jpeg
+2019-03-02 16:21:45,795 - system - DEBUG - parse QunObj succ, url:/group?id=1121746
+2019-03-02 16:21:45,927 - system - DEBUG - download img[https://img8.souweixin.com/20190221/1295503/6178af6d0788fde09227551258d8821e.jpeg] succ
+2019-03-02 16:21:45,928 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/6178af6d0788fde09227551258d8821e.jpeg
+2019-03-02 16:21:45,998 - system - DEBUG - parse QunObj succ, url:/group?id=1122933
+2019-03-02 16:21:46,228 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1288481/93ae07c72899c05ca165789813e8efed.jpeg] succ
+2019-03-02 16:21:46,228 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/93ae07c72899c05ca165789813e8efed.jpeg
+2019-03-02 16:21:46,285 - system - DEBUG - parse QunObj succ, url:/group?id=1121334
+2019-03-02 16:21:46,555 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 16:21:46,694 - system - DEBUG - parse QunObj succ, url:/group?id=1073423
+2019-03-02 16:21:46,863 - system - DEBUG - download img[https://img8.souweixin.com/20180428/1090715/2d3c2b17212003d63bbd651f6d9a8005.jpeg] succ
+2019-03-02 16:21:46,863 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/2d3c2b17212003d63bbd651f6d9a8005.jpeg
+2019-03-02 16:21:46,924 - system - DEBUG - parse QunObj succ, url:/group?id=1121685
+2019-03-02 16:21:47,245 - system - DEBUG - download img[https://img8.souweixin.com/20190220/1290153/a2ffdef7b62cfe6335b7ae014d62ce51.jpeg] succ
+2019-03-02 16:21:47,245 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a2ffdef7b62cfe6335b7ae014d62ce51.jpeg
+2019-03-02 16:21:47,321 - system - DEBUG - parse QunObj succ, url:/group?id=1120022
+2019-03-02 16:21:47,635 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/50b81a80fd74698404c7b4debfd1ea37.png
+2019-03-02 16:21:47,700 - system - DEBUG - parse QunObj succ, url:/group?id=1123000
+2019-03-02 16:21:47,932 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1225797/ca13f9565f63470a25467fd740b62de1.png] succ
+2019-03-02 16:21:47,933 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/ca13f9565f63470a25467fd740b62de1.png
+2019-03-02 16:21:47,999 - system - DEBUG - parse QunObj succ, url:/group?id=1074432
+2019-03-02 16:21:48,285 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1157244/ba8f3ecc698f2c786755a5c734ac5ee0.jpeg] succ
+2019-03-02 16:21:48,286 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/ba8f3ecc698f2c786755a5c734ac5ee0.jpeg
+2019-03-02 16:21:48,349 - system - DEBUG - parse QunObj succ, url:/group?id=1123046
+2019-03-02 16:21:48,510 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1195104/a0161f9e5da85718718566bbedc43fc7.jpeg] succ
+2019-03-02 16:21:48,510 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a0161f9e5da85718718566bbedc43fc7.jpeg
+2019-03-02 16:21:48,600 - system - DEBUG - parse QunObj succ, url:/group?id=1123047
+2019-03-02 16:21:48,829 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/a0161f9e5da85718718566bbedc43fc7.jpeg
+2019-03-02 16:21:48,911 - system - DEBUG - parse QunObj succ, url:/group?id=1123048
+2019-03-02 16:21:49,676 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298439/74c42dc80a129a64eea874742881ace8.jpeg] succ
+2019-03-02 16:21:49,677 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/74c42dc80a129a64eea874742881ace8.jpeg
+2019-03-02 16:21:49,738 - system - DEBUG - parse QunObj succ, url:/group?id=1121571
+2019-03-02 16:21:49,860 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqun\data\imgs/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg
+2019-03-02 22:46:10,956 - system - INFO - crawl qun list[https://www.weixinqun.com/group] succ
+2019-03-02 22:46:11,059 - system - INFO - crawl qun index [/group?id=1123093] succ
+2019-03-02 22:46:11,641 - system - INFO - crawl qun index [/group?id=1121571] succ
+2019-03-02 22:46:12,351 - system - INFO - crawl qun index [/group?id=1123089] succ
+2019-03-02 22:46:12,943 - system - INFO - crawl qun index [/group?id=1123091] succ
+2019-03-02 22:46:13,524 - system - INFO - crawl qun index [/group?id=1027230] succ
+2019-03-02 22:46:14,444 - system - INFO - crawl qun index [/group?id=1123000] succ
+2019-03-02 22:46:15,046 - system - INFO - crawl qun index [/group?id=1122515] succ
+2019-03-02 22:46:15,702 - system - INFO - crawl qun index [/group?id=1105567] succ
+2019-03-02 22:46:16,297 - system - INFO - crawl qun index [/group?id=1102466] succ
+2019-03-02 22:46:16,785 - system - INFO - crawl qun index [/group?id=1123085] succ
+2019-03-02 22:46:17,441 - system - INFO - crawl qun index [/group?id=1123086] succ
+2019-03-02 22:46:18,070 - system - INFO - crawl qun index [/group?id=1123087] succ
+2019-03-02 22:46:28,711 - system - INFO - crawl qun index [/group?id=1123088] succ
+2019-03-02 22:46:29,138 - system - INFO - crawl qun index [/group?id=1086602] succ
+2019-03-02 22:46:29,701 - system - INFO - crawl qun index [/group?id=1121341] succ
+2019-03-02 22:46:40,563 - system - INFO - crawl qun index [/group?id=1102697] succ
+2019-03-02 22:46:41,119 - system - INFO - crawl qun index [/group?id=1116738] succ
+2019-03-02 22:46:42,316 - system - INFO - crawl qun index [/group?id=1122333] succ
+2019-03-02 22:46:43,148 - system - INFO - crawl qun index [/group?id=1077472] succ
+2019-03-02 22:46:43,682 - system - INFO - crawl qun index [/group?id=1098760] succ
+2019-03-02 22:46:44,239 - system - INFO - crawl qun index [/group?id=1113526] succ
+2019-03-02 22:46:44,975 - system - INFO - crawl qun index [/group?id=1066469] succ
+2019-03-02 22:46:45,841 - system - INFO - crawl qun index [/group?id=1122945] succ
+2019-03-02 22:46:46,389 - system - INFO - crawl qun index [/group?id=1121311] succ
+2019-03-02 22:46:57,522 - system - INFO - crawl qun index [/group?id=1111688] succ
+2019-03-02 22:46:58,089 - system - INFO - crawl qun index [/group?id=1122525] succ
+2019-03-02 22:46:58,725 - system - INFO - crawl qun index [/group?id=1102450] succ
+2019-03-02 22:46:59,526 - system - INFO - crawl qun index [/group?id=1123077] succ
+2019-03-02 22:47:00,389 - system - INFO - crawl qun index [/group?id=1100069] succ
+2019-03-02 22:47:01,018 - system - INFO - crawl qun index [/group?id=1120978] succ
+2019-03-02 22:47:01,954 - system - INFO - crawl qun index [/group?id=1122935] succ
+2019-03-02 22:47:02,718 - system - INFO - crawl qun index [/group?id=1122815] succ
+2019-03-02 22:47:03,598 - system - INFO - crawl qun index [/group?id=1096431] succ
+2019-03-02 22:47:04,750 - system - INFO - crawl qun index [/group?id=1040235] succ
+2019-03-02 22:47:05,469 - system - INFO - crawl qun index [/group?id=1103069] succ
+2019-03-02 22:47:06,070 - system - INFO - crawl qun index [/group?id=1090857] succ
+2019-03-02 22:47:06,846 - system - INFO - crawl qun index [/group?id=1116448] succ
+2019-03-02 22:47:17,946 - system - INFO - crawl qun index [/group?id=1121562] succ
+2019-03-02 22:47:18,585 - system - INFO - crawl qun index [/group?id=1123076] succ
+2019-03-02 22:47:29,557 - system - INFO - crawl qun index [/group?id=1095976] succ
+2019-03-02 22:47:30,342 - system - INFO - crawl qun index [/group?id=1094898] succ
+2019-03-02 22:47:31,145 - system - INFO - crawl qun index [/group?id=1121566] succ
+2019-03-02 22:47:42,374 - system - DEBUG - parse QunObj succ, url:/group?id=1123093
+2019-03-02 22:47:42,854 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298533/2b40c4a7b33550b18b0ef2e8b1e6f91a.jpeg] succ
+2019-03-02 22:47:42,854 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/2b40c4a7b33550b18b0ef2e8b1e6f91a.jpeg
+2019-03-02 22:47:42,935 - system - DEBUG - parse QunObj succ, url:/group?id=1121571
+2019-03-02 22:47:43,278 - system - DEBUG - download img[https://img8.souweixin.com/20190228/981651/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg] succ
+2019-03-02 22:47:43,278 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg
+2019-03-02 22:47:43,372 - system - DEBUG - parse QunObj succ, url:/group?id=1123089
+2019-03-02 22:47:43,764 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298526/51075462010b2fd433890522f0a2df9c.jpeg] succ
+2019-03-02 22:47:43,765 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/51075462010b2fd433890522f0a2df9c.jpeg
+2019-03-02 22:47:43,826 - system - DEBUG - parse QunObj succ, url:/group?id=1123091
+2019-03-02 22:47:44,257 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298527/660570257bf15fb3ce2d59e6cbc063c9.jpeg] succ
+2019-03-02 22:47:44,258 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/660570257bf15fb3ce2d59e6cbc063c9.jpeg
+2019-03-02 22:47:44,326 - system - DEBUG - parse QunObj succ, url:/group?id=1027230
+2019-03-02 22:47:44,716 - system - DEBUG - download img[https://img8.souweixin.com/20190302/853073/5b4828e39e65445c1e45c7217ce2b62a.jpeg] succ
+2019-03-02 22:47:44,716 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/5b4828e39e65445c1e45c7217ce2b62a.jpeg
+2019-03-02 22:47:44,783 - system - DEBUG - parse QunObj succ, url:/group?id=1123000
+2019-03-02 22:47:45,344 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1225797/ca13f9565f63470a25467fd740b62de1.png] succ
+2019-03-02 22:47:45,344 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/ca13f9565f63470a25467fd740b62de1.png
+2019-03-02 22:47:45,430 - system - DEBUG - parse QunObj succ, url:/group?id=1122515
+2019-03-02 22:47:46,020 - system - DEBUG - download img[https://img8.souweixin.com/20190227/652501/c5b1901a2735d46df068355f4fdce3ab.jpeg] succ
+2019-03-02 22:47:46,020 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/c5b1901a2735d46df068355f4fdce3ab.jpeg
+2019-03-02 22:47:46,093 - system - DEBUG - parse QunObj succ, url:/group?id=1105567
+2019-03-02 22:47:46,529 - system - DEBUG - download img[https://img8.souweixin.com/20181025/1148880/1bf10e5c934fe2ae66008119e5bd4068.jpeg] succ
+2019-03-02 22:47:46,530 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/1bf10e5c934fe2ae66008119e5bd4068.jpeg
+2019-03-02 22:47:46,618 - system - DEBUG - parse QunObj succ, url:/group?id=1102466
+2019-03-02 22:47:47,054 - system - DEBUG - download img[https://img8.souweixin.com/20190301/981651/d713fb6e40a94f6c8ddcef84a959778f.jpeg] succ
+2019-03-02 22:47:47,054 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 22:47:47,140 - system - DEBUG - parse QunObj succ, url:/group?id=1123085
+2019-03-02 22:47:47,486 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1294651/3918f5015c8e35ba04877094d27cb509.jpeg] succ
+2019-03-02 22:47:47,486 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/3918f5015c8e35ba04877094d27cb509.jpeg
+2019-03-02 22:47:47,552 - system - DEBUG - parse QunObj succ, url:/group?id=1123086
+2019-03-02 22:47:47,949 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/3918f5015c8e35ba04877094d27cb509.jpeg
+2019-03-02 22:47:48,037 - system - DEBUG - parse QunObj succ, url:/group?id=1123087
+2019-03-02 22:47:48,380 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1298524/96500544cb5502c2e6a0a529c813aaf4.jpeg] succ
+2019-03-02 22:47:48,380 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/96500544cb5502c2e6a0a529c813aaf4.jpeg
+2019-03-02 22:47:48,472 - system - DEBUG - parse QunObj succ, url:/group?id=1123088
+2019-03-02 22:47:48,926 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1254409/cdf718b9c5713fba0d84ac31493a60c1.jpeg] succ
+2019-03-02 22:47:48,927 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/cdf718b9c5713fba0d84ac31493a60c1.jpeg
+2019-03-02 22:47:49,006 - system - DEBUG - parse QunObj succ, url:/group?id=1086602
+2019-03-02 22:47:49,711 - system - DEBUG - download img[https://img8.souweixin.com/20180930/1187286/d7c88723bd9386f6e6dbf092f2bf4807.jpeg] succ
+2019-03-02 22:47:49,711 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/d7c88723bd9386f6e6dbf092f2bf4807.jpeg
+2019-03-02 22:47:49,803 - system - DEBUG - parse QunObj succ, url:/group?id=1121341
+2019-03-02 22:47:50,304 - system - DEBUG - download img[https://img8.souweixin.com/20190228/981651/61ce0afe5842dc4cac5f453cba07afba.jpeg] succ
+2019-03-02 22:47:50,304 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 22:47:50,445 - system - DEBUG - parse QunObj succ, url:/group?id=1102697
+2019-03-02 22:47:51,120 - system - DEBUG - download img[https://img8.souweixin.com/20181005/1253336/a3c1d6edde778553ac04f165706f5622.jpeg] succ
+2019-03-02 22:47:51,120 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/a3c1d6edde778553ac04f165706f5622.jpeg
+2019-03-02 22:47:51,224 - system - DEBUG - parse QunObj succ, url:/group?id=1116738
+2019-03-02 22:47:52,743 - system - DEBUG - download img[https://img8.souweixin.com/20181229/1262150/bbfe0f61d68026f05cb3d65a214015b2.jpeg] succ
+2019-03-02 22:47:52,744 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/bbfe0f61d68026f05cb3d65a214015b2.jpeg
+2019-03-02 22:47:53,100 - system - DEBUG - parse QunObj succ, url:/group?id=1122333
+2019-03-02 22:47:53,803 - system - DEBUG - download img[https://img8.souweixin.com/20190227/1297114/be7c0c5ca1092e7e9e2f5cb668a58387.png] succ
+2019-03-02 22:47:53,803 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/be7c0c5ca1092e7e9e2f5cb668a58387.png
+2019-03-02 22:47:53,969 - system - DEBUG - parse QunObj succ, url:/group?id=1077472
+2019-03-02 22:47:54,541 - system - DEBUG - download img[https://img8.souweixin.com/20181229/1097542/3d07bdafb8d6ad541edaa8fcdbbd1fdc.jpeg] succ
+2019-03-02 22:47:54,541 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/3d07bdafb8d6ad541edaa8fcdbbd1fdc.jpeg
+2019-03-02 22:47:54,618 - system - DEBUG - parse QunObj succ, url:/group?id=1098760
+2019-03-02 22:47:54,996 - system - DEBUG - download img[https://img8.souweixin.com/20190222/1122598/0f00110b7a94d702c33709e8fc0cd0e4.jpeg] succ
+2019-03-02 22:47:54,996 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/0f00110b7a94d702c33709e8fc0cd0e4.jpeg
+2019-03-02 22:47:55,064 - system - DEBUG - parse QunObj succ, url:/group?id=1113526
+2019-03-02 22:47:55,465 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/9ee35058c7fd1c8b2ad4f4b5350ddc9b.jpeg
+2019-03-02 22:47:55,525 - system - DEBUG - parse QunObj succ, url:/group?id=1066469
+2019-03-02 22:47:55,913 - system - DEBUG - download img[https://img8.souweixin.com/20190301/834496/cff59e3823c376c53e101776a68d19f6.jpeg] succ
+2019-03-02 22:47:55,914 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/cff59e3823c376c53e101776a68d19f6.jpeg
+2019-03-02 22:47:55,978 - system - DEBUG - parse QunObj succ, url:/group?id=1122945
+2019-03-02 22:47:56,515 - system - DEBUG - download img[https://img8.souweixin.com/20190301/1298185/ac8d20f388f91ab9547760d4e55d2e33.jpeg] succ
+2019-03-02 22:47:56,516 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/ac8d20f388f91ab9547760d4e55d2e33.jpeg
+2019-03-02 22:47:56,617 - system - DEBUG - parse QunObj succ, url:/group?id=1121311
+2019-03-02 22:47:57,060 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 22:47:57,125 - system - DEBUG - parse QunObj succ, url:/group?id=1111688
+2019-03-02 22:47:57,541 - system - DEBUG - download img[https://img8.souweixin.com/20181128/1272242/116f948370dfc8d18aa234f56b6855d8.png] succ
+2019-03-02 22:47:57,542 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/116f948370dfc8d18aa234f56b6855d8.png
+2019-03-02 22:47:57,654 - system - DEBUG - parse QunObj succ, url:/group?id=1122525
+2019-03-02 22:47:58,157 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/c5b1901a2735d46df068355f4fdce3ab.jpeg
+2019-03-02 22:47:58,269 - system - DEBUG - parse QunObj succ, url:/group?id=1102450
+2019-03-02 22:47:58,685 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 22:47:58,814 - system - DEBUG - parse QunObj succ, url:/group?id=1123077
+2019-03-02 22:47:59,236 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1164525/479b03ce57080b0f00e1b23204c18400.png] succ
+2019-03-02 22:47:59,237 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/479b03ce57080b0f00e1b23204c18400.png
+2019-03-02 22:47:59,288 - system - DEBUG - parse QunObj succ, url:/group?id=1100069
+2019-03-02 22:47:59,641 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1221921/7f541e9a22d8c642b715c3d3847c9e26.jpeg] succ
+2019-03-02 22:47:59,642 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/7f541e9a22d8c642b715c3d3847c9e26.jpeg
+2019-03-02 22:47:59,703 - system - DEBUG - parse QunObj succ, url:/group?id=1120978
+2019-03-02 22:48:00,127 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1294295/7fbd25dbb43724fe4b8cbd67b8cef9d3.jpeg] succ
+2019-03-02 22:48:00,127 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/7fbd25dbb43724fe4b8cbd67b8cef9d3.jpeg
+2019-03-02 22:48:00,226 - system - DEBUG - parse QunObj succ, url:/group?id=1122935
+2019-03-02 22:48:00,829 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/bbfe0f61d68026f05cb3d65a214015b2.jpeg
+2019-03-02 22:48:00,905 - system - DEBUG - parse QunObj succ, url:/group?id=1122815
+2019-03-02 22:48:01,238 - system - DEBUG - download img[https://img8.souweixin.com/20190228/1296815/cea6136660cf4461659473f7f58bcd0c.jpeg] succ
+2019-03-02 22:48:01,238 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/cea6136660cf4461659473f7f58bcd0c.jpeg
+2019-03-02 22:48:01,312 - system - DEBUG - parse QunObj succ, url:/group?id=1096431
+2019-03-02 22:48:01,817 - system - DEBUG - download img[https://img8.souweixin.com/20180823/1164525/5923d6ecf61dad1b874caa2d9282e932.jpeg] succ
+2019-03-02 22:48:01,817 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/5923d6ecf61dad1b874caa2d9282e932.jpeg
+2019-03-02 22:48:02,064 - system - DEBUG - parse QunObj succ, url:/group?id=1040235
+2019-03-02 22:48:02,436 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/cff59e3823c376c53e101776a68d19f6.jpeg
+2019-03-02 22:48:02,520 - system - DEBUG - parse QunObj succ, url:/group?id=1103069
+2019-03-02 22:48:03,018 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
+2019-03-02 22:48:03,081 - system - DEBUG - parse QunObj succ, url:/group?id=1090857
+2019-03-02 22:48:03,396 - system - DEBUG - download img[https://img8.souweixin.com/20180723/1164525/5753397c56c8ee1fe52211c816653704.png] succ
+2019-03-02 22:48:03,396 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/5753397c56c8ee1fe52211c816653704.png
+2019-03-02 22:48:03,443 - system - DEBUG - parse QunObj succ, url:/group?id=1116448
+2019-03-02 22:48:03,940 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/bbfe0f61d68026f05cb3d65a214015b2.jpeg
+2019-03-02 22:48:04,026 - system - DEBUG - parse QunObj succ, url:/group?id=1121562
+2019-03-02 22:48:04,363 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/61ce0afe5842dc4cac5f453cba07afba.jpeg
+2019-03-02 22:48:04,473 - system - DEBUG - parse QunObj succ, url:/group?id=1123076
+2019-03-02 22:48:04,965 - system - DEBUG - download img[https://img8.souweixin.com/20190302/1296865/5d967022ef749b98b58386bbadc38659.jpeg] succ
+2019-03-02 22:48:04,966 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/5d967022ef749b98b58386bbadc38659.jpeg
+2019-03-02 22:48:05,049 - system - DEBUG - parse QunObj succ, url:/group?id=1095976
+2019-03-02 22:48:05,391 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/7f541e9a22d8c642b715c3d3847c9e26.jpeg
+2019-03-02 22:48:05,468 - system - DEBUG - parse QunObj succ, url:/group?id=1094898
+2019-03-02 22:48:05,915 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/7f541e9a22d8c642b715c3d3847c9e26.jpeg
+2019-03-02 22:48:05,999 - system - DEBUG - parse QunObj succ, url:/group?id=1121566
+2019-03-02 22:48:06,562 - system - DEBUG - parse QunObj imgPath succ, path:D:\Python相关\过程project\weixinqunBackend\static\imgs/d713fb6e40a94f6c8ddcef84a959778f.jpeg
